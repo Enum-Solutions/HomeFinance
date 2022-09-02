@@ -1,0 +1,223 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="BN_HomeFinance.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Home Finance</title>
+
+    <!-- Favicons -->
+    <link href="Assets/img/title-logo.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!--  CSS Files -->
+    <link rel="stylesheet" href="Assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="Assets/css/Style.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/dataTables.bootstrap5.min.css" />
+
+    <!-- Template Main CSS File -->
+
+    <script src="https://kit.fontawesome.com/89a09ea878.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script src="Assets/js/bootstrap.min.js"></script>
+
+    <script src="Assets/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+
+    <script src="../Assets/js/datatables.min.js"></script>
+
+    <style>
+        .paginate_button {
+            background: white;
+            padding: 1%;
+            border: solid 1px gray;
+        }
+
+        .dataTables_paginate a {
+            color: var(--t-gray);
+            text-decoration: none;
+        }
+
+            .dataTables_paginate a:hover {
+                cursor: pointer;
+                background-color: var(--d-gray);
+                color: white;
+            }
+
+            .dataTables_paginate a:active {
+                cursor: pointer;
+                background: rgb(158,87,217);
+                color: white;
+            }
+
+            .dataTables_paginate a:active {
+                cursor: pointer;
+                background: rgb(158,87,217);
+                color: white;
+            }
+
+        .current {
+            background: var(--purple);
+            color: white !important;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form" runat="server">
+        <!-- Header -->
+        <header id="header" class="header bg-white">
+            <div class="row">
+                <!-- Navigation -->
+                <nav class="navbar navbar-default navbar-trans navbar-expand-lg">
+                    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+                        <span><i class="fas fa-bars"></i></span>
+                    </button>
+                    <a class="navbar-brand text-brand logo-manzil" href="index.aspx">
+                        <img src="Assets/img/logo-manzil.png"></a>
+                    <div class="navbar-collapse collapse" id="navbarDefault">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <asp:HyperLink CssClass="nav-link" NavigateUrl="~/Index.aspx" ID="linkHome" runat="server">Home</asp:HyperLink>
+                                <%--<a class="nav-link" href="<%= BN_HomeFinance.Helper.pg_Index %>">Home</a>--%>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="<%= BN_HomeFinance.Helper.pg_StakeHolderList %>?UserTypeID=3">Builders</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="<%= BN_HomeFinance.Helper.pg_StakeHolderList %>?UserTypeID=2">Vendors</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="<%= BN_HomeFinance.Helper.pg_AllProperties %>">Properties</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link " href="<%= BN_HomeFinance.Helper.pg_AllProducts %>">Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="<%= BN_HomeFinance.Helper.pg_Message %>">Story</a>
+                            </li>
+                            <li class="nav-item" runat="server" id="linkProfile" visible="false">
+                                <a class="nav-link" href="<%= BN_HomeFinance.Helper.pg_UserProfile %>">My Profile</a>
+                            </li>
+                            <li class="nav-item" runat="server" id="lnkLogin">
+                                <a class="nav-link" href="<%= BN_HomeFinance.Helper.pg_Login %>"><i class="fas fa-sign-in-alt"></i><span>Login</span></a>
+                            </li>
+                            <li class="nav-item" runat="server" id="lnkLogout" visible="false">
+                                <a class="nav-link" href="<%= BN_HomeFinance.Helper.pg_Logout %>"><i class="fas fa-sign-out-alt"></i><span>LogOut</span></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <a class="navbar-brand text-brand logo-main" href="index.aspx">
+                        <img src="Assets/img/logo.png"></a>
+                </nav>
+                <!-- End Header/Navbar -->
+
+                <!-- end of navbar -->
+            </div>
+        </header>
+        <!-- Header -->
+        <asp:HiddenField ID="HasModal" Value="0" runat="server" />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+        
+        <!-- Modal Popup-->
+        <div class="modal" id="Popup" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-dialog-popup" role="document">
+                <div class="modal-content modal-content-popup">
+
+                    <div class="modal-body modal-body-popup">
+                        <asp:Image ID="imgPopup" runat="server" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal Popup-->
+
+        <!--  Footer  -->
+        <footer id="footer" class="footer bg-purple mt-5">
+            <div class="row">
+                <div class="col-4 col-sm-4 col-md-4">
+                    <div class="row">
+                        <h4 class="c-w w-100">Important Links</h4>
+                    </div>
+                    <div class="row">
+                        <a href="/Admin/<%= BN_HomeFinance.Helper.pg_Login %>" class="w-100 c-w">Login</a>
+                    </div>
+                    <div class="row">
+                        <a href="<%= BN_HomeFinance.Helper.pg_Message %>" class="w-100 c-w">Messages</a>
+                    </div>
+                    <div class="row">
+                        <a href="<%= BN_HomeFinance.Helper.pg_ChatList %>" class="w-100 c-w">Chat</a>
+                    </div>
+                </div>
+                <div class="col-4 col-sm-4 col-md-4">
+                    <div class="row">
+                        <h4 class="c-w w-100">Services</h4>
+                    </div>
+                    <div class="row">
+                        <a href="<%= BN_HomeFinance.Helper.pg_StakeHolderList %>?UserTypeID=2" class="w-100 c-w">Vendors</a>
+                    </div>
+                    <div class="row">
+                        <a href="<%= BN_HomeFinance.Helper.pg_StakeHolderList %>?UserTypeID=3" class="w-100 c-w">Builders</a>
+                    </div>
+                    <div class="row">
+                        <a href="<%= BN_HomeFinance.Helper.pg_AllProperties %>" class="w-100 c-w">Properties</a>
+                    </div>
+                    <div class="row">
+                        <a href="<%= BN_HomeFinance.Helper.pg_AllProducts %>" class="w-100 c-w">products</a>
+                    </div>
+                </div>
+                <div class="col-1 col-sm-1 col-md-1"></div>
+                <div class="col-3 col-sm-3 col-md-3">
+                    <div class="row">
+                        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                            <img src="Assets/img/footerLogo.png">
+                        </div>
+                    </div>
+                    <div class="row social">
+                        <div class="col-3 col-sm-3 col-md-3 col-lg-3">
+                            <a href="#" class="w-100 c-w"><i class="fab fa-facebook"></i></a>
+                        </div>
+                        <div class="col-3 col-sm-3 col-md-3 col-lg-3">
+                            <a href="#" class="w-100 c-w"><i class="fab fa-instagram"></i></a>
+                        </div>
+                        <div class="col-3 col-sm-3 col-md-3 col-lg-3">
+                            <a href="#" class="w-100 c-w"><i class="fab fa-twitter"></i></a>
+                        </div>
+                        <div class="col-3 col-sm-3 col-md-3 col-lg-3">
+                            <a href="#" class="w-100 c-w"><i class="fab fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--  Footer  -->
+    </form>
+    <script>
+        $(document).ready(function () {
+             
+            $('.table').DataTable({
+                "order": [[0, "asc"]]
+            });
+
+            var modalvalue = document.getElementById("<%= HasModal.ClientID %>").value;
+
+            if (modalvalue == "1") {
+                $('#Popup').modal('show');
+            }
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,290 @@
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll.config
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.pdb
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe.config
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.rsp
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe.config
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.rsp
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.AppContext.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Console.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Compression.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Claims.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.ValueTuple.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe.config
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.rsp
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.xml
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csprojAssemblyReference.cache
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CoreCompileInputs.cache
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CopyComplete
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.dll
+C:\Users\sp.admin\source\repos\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.pdb
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.pdb
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.AppContext.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Console.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.xml
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.AssemblyReference.cache
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CoreCompileInputs.cache
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CopyComplete
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\latest\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.pdb
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll.config
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.pdb
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe.config
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.rsp
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe.config
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.rsp
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.AppContext.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Console.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Compression.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Claims.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.ValueTuple.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe.config
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.rsp
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.xml
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.AssemblyReference.cache
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CoreCompileInputs.cache
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CopyComplete
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.dll
+C:\Users\sp.admin\Desktop\Latest\BN_HomeFinance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.pdb
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.pdb
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.AppContext.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Console.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.xml
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.AssemblyReference.cache
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CoreCompileInputs.cache
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CopyComplete
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\new\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.pdb
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\BN_HomeFinance.pdb
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csc.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\csi.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.AppContext.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Console.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\vbc.rsp
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\Newtonsoft.Json.xml
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.AssemblyReference.cache
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CoreCompileInputs.cache
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.csproj.CopyComplete
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.dll
+C:\Users\Samar Haider\Desktop\Complete Systems\Home Finance Solution\Home Finance\BN_HomeFinance\BN_HomeFinance\obj\Release\BN_HomeFinance.pdb
